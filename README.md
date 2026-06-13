@@ -26,8 +26,8 @@ const moksh = {
 };
 ```
 
-- 🔭 Currently building **FinSathi** — a finance companion app
-- 🚗 Crafting **aetheris-hypercar** — a TypeScript-powered project
+- 🔭 Currently building **[FinSathi](https://fin-sathi-three.vercel.app/)** — a finance companion app
+- 🚗 Crafting **[Aetheris Hypercar](https://aetheris-hypercar.vercel.app/)** — a TypeScript-powered showcase
 - 🌱 Always leveling up my full-stack skills
 - 💬 Ask me about **JavaScript, TypeScript & web development**
 - 📫 Reach me: **your.email@example.com**
@@ -81,16 +81,50 @@ const moksh = {
 <!-- ====== FEATURED PROJECTS ====== -->
 ### 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">💰 FinSathi</h3>
+
+<div align="center">
+<a href="https://fin-sathi-three.vercel.app/" target="_blank">
+  <img src="https://api.microlink.io/?url=https%3A%2F%2Ffin-sathi-three.vercel.app%2F&screenshot=true&meta=false&embed=screenshot.url&overlay.browser=dark" alt="FinSathi live preview" width="100%" />
+</a>
+</div>
+
+<p align="center">A finance companion app to help you track and manage your money with ease.</p>
+
 <div align="center">
 
-<a href="https://github.com/mokshkumargupta34-lgtm/FinSathi">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mokshkumargupta34-lgtm&repo=FinSathi&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6c8eef&icon_color=6c8eef" alt="FinSathi" />
-</a>
-<a href="https://github.com/mokshkumargupta34-lgtm/aetheris-hypercar">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mokshkumargupta34-lgtm&repo=aetheris-hypercar&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6c8eef&icon_color=6c8eef" alt="aetheris-hypercar" />
-</a>
+[![Live Demo](https://img.shields.io/badge/▶_Live_Demo-6c8eef?style=for-the-badge&logoColor=white)](https://fin-sathi-three.vercel.app/)
+[![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mokshkumargupta34-lgtm/FinSathi)
 
 </div>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🏎️ Aetheris Hypercar</h3>
+
+<div align="center">
+<a href="https://aetheris-hypercar.vercel.app/" target="_blank">
+  <img src="https://api.microlink.io/?url=https%3A%2F%2Faetheris-hypercar.vercel.app%2F&screenshot=true&meta=false&embed=screenshot.url&overlay.browser=dark" alt="Aetheris Hypercar live preview" width="100%" />
+</a>
+</div>
+
+<p align="center">A sleek, TypeScript-powered hypercar showcase with a modern interactive UI.</p>
+
+<div align="center">
+
+[![Live Demo](https://img.shields.io/badge/▶_Live_Demo-6c8eef?style=for-the-badge&logoColor=white)](https://aetheris-hypercar.vercel.app/)
+[![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mokshkumargupta34-lgtm/aetheris-hypercar)
+
+</div>
+
+</td>
+</tr>
+</table>
 
 ---
 
