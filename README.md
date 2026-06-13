@@ -1,36 +1,47 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=800&color=6C8EEF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Moksh+Kumar+Gupta;Full-Stack+Developer;JavaScript+%2B+TypeScript+enthusiast;Always+building+something+new)](https://github.com/mokshkumargupta34-lgtm)
+<!-- ===== HEADER BANNER ===== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,12,20,24&height=200&section=header&text=Moksh%20Kumar%20Gupta&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20I%20turn%20%E2%98%95%20into%20code&descSize=18&descAlignY=58&animation=twinkling" width="100%" />
 
-[![profile views](https://komarev.com/ghpvc/?username=mokshkumargupta34-lgtm&label=Profile%20views&color=6c8eef&style=flat)](https://github.com/mokshkumargupta34-lgtm)
+<!-- ===== TYPING HEADLINE ===== -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Baloo+2&weight=700&size=30&duration=2800&pause=700&color=FF6AC2&center=true&vCenter=true&width=620&height=70&lines=Hi+there%2C+I'm+Moksh!+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%9A%80;JavaScript+%2B+TypeScript+nerd+%E2%9C%A8;Always+building+something+fun!+%F0%9F%8E%A8)](https://github.com/mokshkumargupta34-lgtm)
+
+![profile views](https://komarev.com/ghpvc/?username=mokshkumargupta34-lgtm&label=Profile+Views&color=ff6ac2&style=for-the-badge)
+![made with love](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20%26%20%E2%98%95-FFD93D?style=for-the-badge)
 
 </div>
 
----
+<br/>
 
-### 👨‍💻 About Me
+## 🧑‍🎨 About Me
 
 ```js
 const moksh = {
   role: "Full-Stack Developer",
   location: "India 🇮🇳",
-  currentFocus: ["FinSathi", "aetheris-hypercar"],
+  currentFocus: ["FinSathi", "aetheris-hypercar", "anime-gallery"],
   techStack: ["JavaScript", "TypeScript", "React", "Node.js"],
   learning: "Cloud, system design & clean architecture",
-  funFact: "I turn ☕ into code",
+  funFact: "I turn ☕ into code 🎨",
 };
 ```
 
 - 🔭 Currently building **[FinSathi](https://fin-sathi-three.vercel.app/)** — a finance companion app
 - 🚗 Crafting **[Aetheris Hypercar](https://aetheris-hypercar.vercel.app/)** — a TypeScript-powered showcase
-- 🎴 Built **[Manga & Anime Wall of Legends](https://anime-gallery-two.vercel.app/)** — a premium scrollytelling collectors showcase
+- 🎴 Built **[Manga & Anime Wall of Legends](https://anime-gallery-two.vercel.app/)** — a premium scrollytelling showcase
 - 🌱 Always leveling up my full-stack skills
 - 💬 Ask me about **JavaScript, TypeScript & web development**
 - 📫 Reach me: **your.email@example.com**
 
----
+<br/>
 
-### 🛠️ Tech Stack
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,5,12,20&height=4&width=900" width="100%" />
+</div>
+
+## 🧰 Tech Stack
+
+<div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -43,60 +54,90 @@ const moksh = {
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
+</div>
 
-### 📊 GitHub Stats
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,5,12,20&height=4&width=900" width="100%" />
+</div>
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-![stats](https://github-readme-stats.vercel.app/api?username=mokshkumargupta34-lgtm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=6c8eef&icon_color=6c8eef)
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mokshkumargupta34-lgtm&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6c8eef)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mokshkumargupta34-lgtm&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&border_radius=16&bg_color=241B3A&title_color=FF6AC2&icon_color=4DD0E1&text_color=FFFFFF" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mokshkumargupta34-lgtm&layout=compact&theme=radical&hide_border=true&border_radius=16&bg_color=241B3A&title_color=FF6AC2&text_color=FFFFFF" />
 
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=mokshkumargupta34-lgtm&theme=tokyonight&hide_border=true&background=1A1B27&ring=6C8EEF&fire=6C8EEF&currStreakLabel=6C8EEF)
+<br/>
 
-![trophies](https://github-profile-trophy.vercel.app/?username=mokshkumargupta34-lgtm&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mokshkumargupta34-lgtm&theme=radical&hide_border=true&border_radius=16&background=241B3A&ring=FF6AC2&fire=FFD93D&currStreakLabel=4DD0E1" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=mokshkumargupta34-lgtm&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6" />
 
 </div>
 
----
+<br/>
 
-### 🚀 Featured Projects
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,5,12,20&height=4&width=900" width="100%" />
+</div>
 
-#### 💰 FinSathi
+## 🚀 Featured Projects
 
-[![FinSathi live preview](https://api.microlink.io/?url=https://fin-sathi-three.vercel.app/&screenshot=true&meta=false&embed=screenshot.url)](https://fin-sathi-three.vercel.app/)
+<div align="center">
+<table>
+<tr>
+<td align="center" width="33%">
+<a href="https://fin-sathi-three.vercel.app/">
+<img src="https://api.microlink.io/?url=https://fin-sathi-three.vercel.app/&screenshot=true&meta=false&embed=screenshot.url" width="280" /><br/>
+</a>
+<b>💰 FinSathi</b><br/>
+<sub>A finance companion app to track & manage your money with ease.</sub><br/><br/>
+<a href="https://fin-sathi-three.vercel.app/">🌐 Live</a> • <a href="https://github.com/mokshkumargupta34-lgtm/FinSathi">💻 Code</a>
+</td>
+<td align="center" width="33%">
+<a href="https://aetheris-hypercar.vercel.app/">
+<img src="https://api.microlink.io/?url=https://aetheris-hypercar.vercel.app/&screenshot=true&meta=false&embed=screenshot.url" width="280" /><br/>
+</a>
+<b>🏎️ Aetheris Hypercar</b><br/>
+<sub>A sleek, TypeScript-powered hypercar showcase with a modern UI.</sub><br/><br/>
+<a href="https://aetheris-hypercar.vercel.app/">🌐 Live</a> • <a href="https://github.com/mokshkumargupta34-lgtm/aetheris-hypercar">💻 Code</a>
+</td>
+<td align="center" width="33%">
+<a href="https://anime-gallery-two.vercel.app/">
+<img src="https://api.microlink.io/?url=https://anime-gallery-two.vercel.app/&screenshot=true&meta=false&embed=screenshot.url" width="280" /><br/>
+</a>
+<b>🎴 Anime Wall of Legends</b><br/>
+<sub>A premium scrollytelling collectors showcase for iconic manga & anime.</sub><br/><br/>
+<a href="https://anime-gallery-two.vercel.app/">🌐 Live</a> • <a href="https://github.com/mokshkumargupta34-lgtm/anime-gallery">💻 Code</a>
+</td>
+</tr>
+</table>
+</div>
 
-A finance companion app to help you track and manage your money with ease.
+<br/>
 
-[Live Demo](https://fin-sathi-three.vercel.app/) • [Code](https://github.com/mokshkumargupta34-lgtm/FinSathi)
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,5,12,20&height=4&width=900" width="100%" />
+</div>
 
-#### 🏎️ Aetheris Hypercar
+## 🤝 Connect With Me
 
-[![Aetheris Hypercar live preview](https://api.microlink.io/?url=https://aetheris-hypercar.vercel.app/&screenshot=true&meta=false&embed=screenshot.url)](https://aetheris-hypercar.vercel.app/)
-
-A sleek, TypeScript-powered hypercar showcase with a modern interactive UI.
-
-[Live Demo](https://aetheris-hypercar.vercel.app/) • [Code](https://github.com/mokshkumargupta34-lgtm/aetheris-hypercar)
-
-#### 🎴 Manga & Anime Wall of Legends
-
-[![Manga & Anime Wall of Legends live preview](https://api.microlink.io/?url=https://anime-gallery-two.vercel.app/&screenshot=true&meta=false&embed=screenshot.url)](https://anime-gallery-two.vercel.app/)
-
-A premium scrollytelling collectors showcase — an interactive "wall of legends" celebrating iconic manga & anime with smooth scroll-driven animations.
-
-[Live Demo](https://anime-gallery-two.vercel.app/) • [Code](https://github.com/mokshkumargupta34-lgtm/anime-gallery)
-
----
-
-### 🤝 Connect With Me
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/your-handle)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
----
+</div>
+
+<br/>
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,12,20,24&height=120&section=footer&text=Thanks%20for%20stopping%20by!%20%E2%AD%90&fontSize=22&fontColor=ffffff&fontAlignY=70&animation=twinkling" width="100%" />
 
 ⭐️ From [mokshkumargupta34-lgtm](https://github.com/mokshkumargupta34-lgtm)
 
