@@ -79,6 +79,13 @@ const moksh = {
 ---
 
 <!-- ====== FEATURED PROJECTS ====== -->
+### 🎴 Manga & Anime Wall of Legends
+
+[![Manga & Anime Wall of Legends live preview](https://api.microlink.io/?url=https://anime-gallery-two.vercel.app/&screenshot=true&meta=false&embed=screenshot.url)](https://anime-gallery-two.vercel.app/)
+
+A premium scrollytelling collectors showcase — an interactive "wall of legends" celebrating iconic manga & anime with smooth scroll-driven animations.
+
+[Live Demo](https://anime-gallery-two.vercel.app/) • [Code](https://github.com/mokshkumargupta34-lgtm/anime-gallery)
 ### 🚀 Featured Projects
 
 <table>
