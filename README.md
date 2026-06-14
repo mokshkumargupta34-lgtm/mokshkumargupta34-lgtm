@@ -90,29 +90,39 @@ const moksh = {
 <div align="center">
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="50%">
 <a href="https://fin-sathi-three.vercel.app/">
-<img src="https://api.microlink.io/?url=https://fin-sathi-three.vercel.app/&screenshot=true&meta=false&embed=screenshot.url" width="280" /><br/>
+<img src="https://api.microlink.io/?url=https://fin-sathi-three.vercel.app/&screenshot=true&meta=false&embed=screenshot.url" width="320" /><br/>
 </a>
 <b>💰 FinSathi</b><br/>
 <sub>A finance companion app to track & manage your money with ease.</sub><br/><br/>
 <a href="https://fin-sathi-three.vercel.app/">🌐 Live</a> • <a href="https://github.com/mokshkumargupta34-lgtm/FinSathi">💻 Code</a>
 </td>
-<td align="center" width="33%">
+<td align="center" width="50%">
 <a href="https://aetheris-hypercar.vercel.app/">
-<img src="https://api.microlink.io/?url=https://aetheris-hypercar.vercel.app/&screenshot=true&meta=false&embed=screenshot.url" width="280" /><br/>
+<img src="https://api.microlink.io/?url=https://aetheris-hypercar.vercel.app/&screenshot=true&meta=false&embed=screenshot.url" width="320" /><br/>
 </a>
 <b>🏎️ Aetheris Hypercar</b><br/>
 <sub>A sleek, TypeScript-powered hypercar showcase with a modern UI.</sub><br/><br/>
 <a href="https://aetheris-hypercar.vercel.app/">🌐 Live</a> • <a href="https://github.com/mokshkumargupta34-lgtm/aetheris-hypercar">💻 Code</a>
 </td>
-<td align="center" width="33%">
+</tr>
+<tr>
+<td align="center" width="50%">
 <a href="https://anime-gallery-two.vercel.app/">
-<img src="https://api.microlink.io/?url=https://anime-gallery-two.vercel.app/&screenshot=true&meta=false&embed=screenshot.url" width="280" /><br/>
+<img src="https://api.microlink.io/?url=https://anime-gallery-two.vercel.app/&screenshot=true&meta=false&embed=screenshot.url" width="320" /><br/>
 </a>
 <b>🎴 Anime Wall of Legends</b><br/>
 <sub>A premium scrollytelling collectors showcase for iconic manga & anime.</sub><br/><br/>
 <a href="https://anime-gallery-two.vercel.app/">🌐 Live</a> • <a href="https://github.com/mokshkumargupta34-lgtm/anime-gallery">💻 Code</a>
+</td>
+<td align="center" width="50%">
+<a href="https://clearwell-rho.vercel.app/">
+<img src="https://api.microlink.io/?url=https://clearwell-rho.vercel.app/&screenshot=true&meta=false&embed=screenshot.url" width="320" /><br/>
+</a>
+<b>🤖 Clearwell</b><br/>
+<sub>An AI-powered web app built with Google AI Studio.</sub><br/><br/>
+<a href="https://clearwell-rho.vercel.app/">🌐 Live</a> • <a href="https://github.com/mokshkumargupta34-lgtm/clearwell">💻 Code</a>
 </td>
 </tr>
 </table>
