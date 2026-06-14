@@ -39,6 +39,33 @@ const moksh = {
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,5,12,20&height=4&width=900" width="100%" />
 </div>
 
+<!-- ===== FEATURED PORTFOLIO ===== -->
+<div align="center">
+
+## 🎬 KAAL RENDERS — My AI Filmmaking Portfolio
+
+[![KAAL RENDERS Banner](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,2,5,12,20,24&height=70&section=header&text=AI%20Cinematographer%20%C2%B7%20Crafting%20stories%20frame%20by%20frame&fontSize=20&fontColor=ffffff&fontAlignY=55)](https://kaalrenders.vercel.app/)
+
+<a href="https://kaalrenders.vercel.app/">
+<img src="https://api.microlink.io/?url=https://kaalrenders.vercel.app/&screenshot=true&meta=false&embed=screenshot.url" width="100%" />
+</a>
+
+<br/><br/>
+
+<sub>🎥 A showcase of my journey into AI-driven filmmaking — cinematic renders, visual experiments & the stories behind them.</sub>
+
+<br/><br/>
+
+[![Visit KAAL RENDERS](https://img.shields.io/badge/🎬%20Step%20Inside%20KAAL%20RENDERS-FF6AC2?style=for-the-badge&logoColor=white)](https://kaalrenders.vercel.app/)
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,5,12,20&height=4&width=900" width="100%" />
+</div>
+
 ## 🧰 Tech Stack
 
 <div align="center">
