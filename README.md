@@ -159,7 +159,14 @@ const moksh = {
 <sub>An interactive army-command web experience.</sub><br/><br/>
 <a href="https://army-commander-hzjs.vercel.app/">🌐 Live</a> • <a href="https://github.com/mokshkumargupta34-lgtm/army-commander">💻 Code</a>
 </td>
-<td align="center" width="33%"></td>
+<td align="center" width="33%">
+<a href="https://swathya.vercel.app/">
+<img src="https://api.microlink.io/?url=https://swathya.vercel.app/&screenshot=true&meta=false&embed=screenshot.url" width="280" /><br/>
+</a>
+<b>🩺 Sanjeevani (SWATHYA)</b><br/>
+<sub>A scrollytelling healthcare platform bringing care closer in distance, cost & language. Next.js + Supabase.</sub><br/><br/>
+<a href="https://swathya.vercel.app/">🌐 Live</a> • <a href="https://github.com/mokshkumargupta34-lgtm/SWATHYA">💻 Code</a>
+</td>
 </tr>
 </table>
 </div>
