@@ -31,7 +31,7 @@ const moksh = {
 - 🎴 Built **[Manga & Anime Wall of Legends](https://anime-gallery-two.vercel.app/)** — a premium scrollytelling showcase
 - 🌱 Always leveling up my full-stack skills
 - 💬 Ask me about **JavaScript, TypeScript & web development**
-- 📫 Reach me: **your.email@example.com**
+- 📫 Reach me: **mokshmamta.ma@gmail.com**
 
 <br/>
 
@@ -201,9 +201,8 @@ const moksh = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/your-handle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moksh-kumar-gupta-1469009a/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mokshmamta.ma@gmail.com)
 
 </div>
 
