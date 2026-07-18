@@ -168,6 +168,26 @@ const moksh = {
 <a href="https://swathya.vercel.app/">🌐 Live</a> • <a href="https://github.com/mokshkumargupta34-lgtm/SWATHYA">💻 Code</a>
 </td>
 </tr>
+<tr>
+<td align="center" width="33%">
+<a href="https://buggati-chiron-interactive-site.vercel.app/">
+<img src="https://api.microlink.io/?url=https://buggati-chiron-interactive-site.vercel.app/&screenshot=true&meta=false&embed=screenshot.url" width="280" /><br/>
+</a>
+<b>🏁 Bugatti Chiron — Interactive</b><br/>
+<sub>A Three.js scrollytelling site: cursor-tracking 3D car, a wheel that rolls along a spline & scroll-scrubbed headlight film.</sub><br/><br/>
+<a href="https://buggati-chiron-interactive-site.vercel.app/">🌐 Live</a> • <a href="https://github.com/mokshkumargupta34-lgtm/buggati-chiron-interactive-site">💻 Code</a>
+</td>
+<td align="center" width="33%">
+<a href="https://subscriptiongraveyard.vercel.app/">
+<img src="https://api.microlink.io/?url=https://subscriptiongraveyard.vercel.app/&screenshot=true&meta=false&embed=screenshot.url" width="280" /><br/>
+</a>
+<b>🪦 Subscription Graveyard</b><br/>
+<sub>Scans your inbox to bury forgotten subscriptions. Scroll-scrubbed cinematic hero + live dashboard. Next.js 15 + Supabase.</sub><br/><br/>
+<a href="https://subscriptiongraveyard.vercel.app/">🌐 Live</a> • <a href="https://github.com/mokshkumargupta34-lgtm/subscriptiongraveyard">💻 Code</a>
+</td>
+<td align="center" width="33%"></td>
+</td>
+</tr>
 </table>
 </div>
 
